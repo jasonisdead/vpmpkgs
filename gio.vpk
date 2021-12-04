@@ -1,0 +1,6 @@
+[name]
+gio
+[version]
+2.0
+[vapi]
+gio-2.0
