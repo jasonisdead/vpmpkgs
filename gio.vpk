@@ -3,4 +3,4 @@ gio
 [version]
 2.0
 [vapi]
-gio-2.0
+gio-2.0.vapi
